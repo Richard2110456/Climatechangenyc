@@ -18,3 +18,14 @@ a:active {
 table, th, td{
     border: 1px solid;
 }
+input[type=submit]{
+    background-color:#30B69C;
+    padding: 4px;
+    border-radius: 16px;
+}
+input[type=text] {
+    border: 2px solid #274942;
+    background-color:#30B69C;
+    padding: 5px;
+}
+
