@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 h1{
     background-color: green
 }
-a:active {
+a:active,p {
     color: #654321;
 }
 table, th, td{
@@ -28,4 +28,12 @@ input[type=text] {
     background-color:#30B69C;
     padding: 5px;
 }
-
+.left-float{
+    float: left;
+}
+.right-float{
+    float: right;
+}
+p{
+    font-size: 20px;
+}
