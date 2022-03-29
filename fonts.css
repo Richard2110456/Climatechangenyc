@@ -8,9 +8,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 900 ;
+    
 }
 h1{
-    background-color: green
+    background-color: #59A98D
+    
 }
 a:active,p {
     color: #654321;
@@ -33,6 +35,7 @@ input[type=text] {
 }
 .right-float{
     float: right;
+
 }
 p{
     font-size: 20px;
@@ -41,4 +44,7 @@ p{
     left-float, right-float{
         float:none
     }
+}
+h1{
+    color: #ffffff;
 }
